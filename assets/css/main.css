@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+:root {
+  --color-primary: #eab308;
+  --color-primary-foreground: #ffffff;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+}
